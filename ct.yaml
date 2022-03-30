@@ -1,4 +1,5 @@
 # See https://github.com/helm/chart-testing#configuration
+secretKey: dsaffasfasdfasfdasfasdfasdefeaaaf
 remote: origin
 target-branch: main
 chart-dirs:
